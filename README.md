@@ -1,2 +1,4 @@
 # Wreckage-and-Stab-Wounds-Mobile
-Projeto de jogo mobile feito em Unity e C# de estratégia on-line e off-line cujo objetivo é proteger o rei dentro do castelo na extremidade do jogador e derrotar o rei inimigo dentro do castelo de lado oposto.
+Jogo de estratégia mobile desenvolvido em Unity (C#). Objetivo: proteger 
+seu rei no castelo e derrotar o rei adversário. Disponível para partidas 
+online e offline.
