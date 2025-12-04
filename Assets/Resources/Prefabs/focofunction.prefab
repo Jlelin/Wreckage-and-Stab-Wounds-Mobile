@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6661427469759854968
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 338354184903830244}
+  - component: {fileID: 2706757040839704059}
+  m_Layer: 0
+  m_Name: focofunction
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &338354184903830244
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6661427469759854968}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 12.245301, y: -0.20803651, z: -5.0478935}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2706757040839704059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6661427469759854968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6aa302e63b5aff488f04c4573ae9d2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  apertado_botao: 0
+  networkbutton_manager: {fileID: 0}
+  guerreiroesquerdo: {fileID: 0}
+  warrior: {fileID: 0}
+  maincamera_position: {fileID: 0}
+  maincamera: {fileID: 0}
+  terreno: {fileID: 0}
+  warriorobject: {fileID: 0}
+  botaofoco: {fileID: 0}
+  ataque: {fileID: 0}
+  esquerdo: {fileID: 0}
+  direito: {fileID: 0}
+  selectwarrior: {fileID: 0}
+  botaodesenho: {fileID: 0}
+  atirar: {fileID: 0}
+  mira: {fileID: 566453339290442858, guid: 4005dd6e35acbf741be54633210c835b, type: 3}
+  largura: 0
+  altura: 0
